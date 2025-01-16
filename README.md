@@ -1,8 +1,8 @@
 ### Hello There 👋
 
-<h3 align="center"><a href="https://github.com/Lananglp">
-   <img alt="Kadek Lanang" src="https://readme-typing-svg.herokuapp.com/?lines=Kadek+Lanang;Frontend+developer&font=Fira%20Code&width=300&height=64&color=FF0000&vCenter=false&size=32"></a>
-</h3>
+<h2>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2000&pause=500&color=F70000&width=435&height=70&lines=KADEK+LANANG;FRONTEND+DEVELOPER" alt="Typing SVG" /></a>
+</h2>
 
 My name is Kadek Lanang
  
