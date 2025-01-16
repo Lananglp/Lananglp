@@ -1,5 +1,9 @@
 ### Hello There 👋
 
+<h3 align="center"><a href="https://github.com/Lananglp">
+   <img alt="Kadek Lanang" src="https://readme-typing-svg.herokuapp.com/?lines=Kadek+Lanang;Go+Back-end+developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+</h3>
+
 My name is Kadek Lanang
  
 - 💻 I am currently working as Frontend Developer
