@@ -17,7 +17,7 @@ My name is Kadek Lanang
 
 ## My Social Media
 
-<img alt="MyInstagram" src"https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" />
+<img alt="MyInstagram" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" />
 
 ## Technologies
 
