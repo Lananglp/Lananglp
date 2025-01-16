@@ -25,6 +25,6 @@ My name is Kadek Lanang
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DodyDharma440&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lananglp&layout=compact&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=DodyDharma440&color=green)
