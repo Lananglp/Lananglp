@@ -27,4 +27,4 @@ My name is Kadek Lanang
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lananglp&layout=compact&theme=dark)
 
-![](https://komarev.com/ghpvc/?username=DodyDharma440&color=green)
+![](https://komarev.com/ghpvc/?username=Lananglp&color=green)
