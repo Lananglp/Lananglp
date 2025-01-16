@@ -16,8 +16,9 @@ My name is Kadek Lanang
 <a href="https://ashurabali.com">![Website](https://img.shields.io/badge/Portfolio_Website-444444?style=for-the-badge&logo=About.me&logoColor=white)</a>
 
 ## My Social Media
-
-<img alt="MyInstagram" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" />
+<a href="https://www.instagram.com/lananglanusa/">
+   <img alt="MyInstagram" src="https://img.icons8.com/?size=64&id=Xy10Jcu1L2Su&format=png&color=000000" />
+</a>
 
 ## Technologies
 
