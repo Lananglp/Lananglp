@@ -15,6 +15,10 @@ My name is Kadek Lanang
 <a href="https://www.linkedin.com/in/lanang-lanusa-putera-70b6422a8/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://ashurabali.com">![Website](https://img.shields.io/badge/Portfolio_Website-444444?style=for-the-badge&logo=About.me&logoColor=white)</a>
 
+## My Social Media
+
+<img alt="MyInstagram" src"https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" />
+
 ## Technologies
 
 <p>
@@ -28,8 +32,6 @@ My name is Kadek Lanang
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2188b6?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
-<img alt="Lananglp's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Lananglp&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lananglp&layout=compact&theme=dark)
 
