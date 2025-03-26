@@ -7,7 +7,7 @@
 My name is Kadek Lanang
  
 - 💻 I am currently working as Frontend Developer
-- 😉 21 years old
+- 😉 22 years old
 - 🌴 From Bali, Indonesia
 - 👨🏻‍💻 Currently learning React, Next, JavaScript, TypeScript
 
