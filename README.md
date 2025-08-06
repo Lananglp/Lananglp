@@ -13,7 +13,7 @@ My name is Kadek Lanang
 
 <a href="mailto:lananglanusaputera@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/lanang-lanusa-putera-70b6422a8/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://ashurabali.com">![Website](https://img.shields.io/badge/Portfolio_Website-444444?style=for-the-badge&logo=About.me&logoColor=white)</a>
+<a href="https://lananglanusa.my.id/">![Website](https://img.shields.io/badge/Portfolio_Website-444444?style=for-the-badge&logo=About.me&logoColor=white)</a>
 
 ## My Social Media
 <a href="https://www.instagram.com/lananglanusa/">
